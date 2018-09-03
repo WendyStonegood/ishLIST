@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398076504117",
+    "firebase_url": "https://ishlist-af658.firebaseio.com",
+    "project_id": "ishlist-af658",
+    "storage_bucket": "ishlist-af658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398076504117:android:b4a90ddd048da3df",
+        "android_client_info": {
+          "package_name": "com.example.mariahrockwell.assignment3_mrockwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398076504117-g13alk5c7i8ambqjrsocpb6n636alt8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvry3Akn8pd-c8qyF_Qgw7qcb1Gpvf0p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

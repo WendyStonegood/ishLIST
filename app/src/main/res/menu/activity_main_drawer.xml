@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="schemas.android.com/tools"
+    tools:context=".MainActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/idMainList"
+            android:icon="@drawable/list"
+            android:title="@string/gish_main_list" />
+        <item
+            android:id="@+id/idMyItems"
+            android:icon="@drawable/check"
+            android:title="@string/my_items" />
+        <item
+            android:id="@+id/idNotes"
+            android:icon="@drawable/ic_menu_edit"
+            android:title="@string/notes" />
+        <item
+            android:id="@+id/idCalendar"
+            android:icon="@drawable/ic_menu_calendar"
+            android:title="@string/calendar" />
+    </group>
+
+    <item android:title="@string/web_pages">
+        <menu>
+            <item
+                android:id="@+id/fb"
+                android:icon="@drawable/homepage"
+                android:title="@string/gish_homepage" />
+            <item
+                android:id="@+id/twitter"
+                android:icon="@drawable/twittermenu"
+                android:title="@string/twitter" />
+        </menu>
+    </item>
+
+</menu>

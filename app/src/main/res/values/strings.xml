@@ -1,0 +1,121 @@
+<resources>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ishlist">Keep organized during GISH week!</string>
+    <string name="todo">TODO</string>
+    <string name="closeappbar">Close App Bar</string>
+
+
+    <string-array name="quotes">
+        <item>Select</item>
+        <item>Hope</item>
+        <item>Leadership</item>
+        <item>Kindness</item>
+    </string-array>
+
+    <string-array name="filler">
+        <item>Sample 1</item>
+        <item>Sample A</item>
+        <item>Sample 2</item>
+        <item>Sample B</item>
+    </string-array>
+
+    <string-array name="weekSix">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+
+    <string name="title_item_detail">Item Detail</string>
+    <string name="btn_Main_List">GISH Item List</string>
+    <string name="btn_My_Items">My Items</string>
+    <string name="btn_Notes">Notes</string>
+    <string name="btn_Calendar">Calendar</string>
+    <string name="btn_Charities">Charities</string>
+    <string name="btn_GishMain">Gish Main <List></List></string>
+
+
+    <string name="tv_main_list">Main List shown here.</string>
+    <string name="tv_my_items">My Items shown here.</string>
+    <string name="tv_notes">Notes shown here.</string>
+    <string name="tv_Calendar">Calendar shown here.</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="web_pages">Web Pages</string>
+    <string name="gish_homepage">Gish Homepage</string>
+    <string name="twitter">Twitter</string>
+    <string name="gish_main_list">GISH Main List</string>
+    <string name="my_items">My Items</string>
+    <string name="notes">Notes</string>
+    <string name="calendar">Calendar</string>
+    <string name="textview">TextView</string>
+    <string name="tv_userdummy">User Dummy Data</string>
+    <string name="group">group</string>
+    <string name="is_this_thing_on">is this thing on?</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name"></string>
+    <string name="password"></string>
+    <string name="last_name"></string>
+    <string name="email_id"></string>
+    <string name="ok">OK</string>
+    <string name="sign_in">Sign In</string>
+    <string name="please_work">Please Work!</string>
+
+
+    <string name="add_favr">Added to Favorites</string>
+    <string name="remove_favr">Removed from Favorites</string>
+    <string name="no_favorites_items">No Favorites</string>
+    <string name="no_favorites_msg">Long press on item to add to favorites.</string>
+    <string name="favorites_remove_msg">Long press on item to remove from favorites.</string>
+    <string name="pick_a_quote">Pick a Quote</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="material_calendar_monday">M</string>
+    <string name="material_calendar_tuesday">Tu</string>
+    <string name="material_calendar_wednesday">W</string>
+    <string name="material_calendar_thursday">Th</string>
+    <string name="material_calendar_friday">F</string>
+    <string name="material_calendar_saturday">Sa</string>
+    <string name="material_calendar_sunday">Sn</string>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+    <string name="material_calendar_today_button">Today</string>
+    <string name="material_calendar_positive_button">Positive</string>
+    <string name="material_calendar_negative_button">Negative</string>
+
+    <string name="save">save</string>
+    <string name="write_note">Write Note</string>
+    <string name="get_date">Get Date</string>
+    <string name="no_note">No Note</string>
+
+    <string name="button_done">Done</string>
+    <string name="action_add_task">Add Task</string>
+
+    <string name="app_name">ishLIST</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="add_task_item">Add Task Item</string>
+    <string name="write_notes">Add your notes here.</string>
+    <string name="btn_rView">View</string>
+    <string name="btn_Teammates">Teammates</string>
+
+
+</resources>
